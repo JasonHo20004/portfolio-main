@@ -1,6 +1,7 @@
-# Slowey's Portfolio
+Slowey's Portfolio
 
-This repository contains the source code for my portfolio website hosted at https://sloweyyy.github.io/portfolio/. The website showcases my projects and skills in web development, design, and data analysis.
+This repository contains the source code for my portfolio website, hosted at https://sloweyyy.github.io/portfolio/. The website showcases my projects and skills in web development, design, and data analysis.
+This repository belongs to Slowey. Do not use it for any profitable purposes!
 
 ## Technologies Used
 
