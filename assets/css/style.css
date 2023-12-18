@@ -329,7 +329,7 @@ h6 {
 #hero {
     width: 100%;
     height: 100vh;
-    background: url("https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/360105624_1350227518911054_3463536092847978738_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=1l62PiSH2aUAX_aVSfB&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfBftyXgZ7HlN462VeUv19EFEjrJnTOsQcILr4nWsxE4cg&oe=6571C618") top right no-repeat;
+    background: url("./assets/photography/cover.jpg") top right no-repeat;
     background-size: cover;
     position: relative;
 }
